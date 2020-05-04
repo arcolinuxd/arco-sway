@@ -61,6 +61,7 @@ sway
 i3status
 dmenu
 feh
+autotiling
 alacritty
 arcolinux-sway-git
 arcolinux-config-sway-git
