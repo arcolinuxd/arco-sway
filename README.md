@@ -1,6 +1,6 @@
 # ArcoLinuxD sway desktop
 
-# Start by installing the latest ArcoLinuxD installation
+# Start by installing the latest ArcoLinuxD iso
 
 Download at https://arcolinux.info and burn to usb
 
