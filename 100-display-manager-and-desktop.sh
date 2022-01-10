@@ -79,7 +79,7 @@ autotiling
 alacritty
 arcolinux-sway-git
 arcolinux-config-sway-git
-arcolinux-sway-dconf-git
+arcolinux-dconf-all-desktops-git
 arcolinux-logout-git
 )
 
