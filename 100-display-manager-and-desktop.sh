@@ -51,7 +51,7 @@ alacritty
 arcolinux-config-sway-git
 arcolinux-dconf-all-desktops-git
 arcolinux-local-xfce4-git
-arcolinux-logout-git
+archlinux-logout-git
 arcolinux-sway-git
 arcolinux-wallpapers-git
 arcolinux-xfce-git
