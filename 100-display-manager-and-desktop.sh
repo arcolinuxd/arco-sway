@@ -66,7 +66,7 @@ lxappearance
 mako
 oniguruma
 otf-font-awesome
-sddm
+sddm-git
 slurp
 sway
 swaybg
