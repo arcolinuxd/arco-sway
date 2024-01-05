@@ -54,7 +54,6 @@ arcolinux-local-xfce4-git
 archlinux-logout-git
 arcolinux-sway-git
 arcolinux-wallpapers-git
-arcolinux-wayland-profile-git
 arcolinux-xfce-git
 autotiling
 dmenu
