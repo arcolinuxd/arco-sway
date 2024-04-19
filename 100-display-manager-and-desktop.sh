@@ -54,7 +54,7 @@ arcolinux-local-xfce4-git
 archlinux-logout-git
 arcolinux-sway-git
 arcolinux-wallpapers-git
-arcolinux-xfce-git
+arconet-xfce
 autotiling
 dmenu
 feh
