@@ -55,7 +55,6 @@ func_category() {
 func_category Arcolinux-Desktop
 
 list=(
-arcolinux-polybar-git
 )
 
 count=0
